@@ -14,4 +14,8 @@ class AdminController extends Controller
     public function charts(){
         return view('Dashboard.pages.charts.chartjs');
     }
+
+    public function tables(){
+        return view('Dashboard.pages.tables.table');
+    }
 }
