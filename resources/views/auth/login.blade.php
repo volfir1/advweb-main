@@ -14,7 +14,7 @@
   <!-- Plugin css for this page -->
   <!-- End plugin css for this page -->
   <!-- inject:css -->
-  <link rel="stylesheet" href="Dashboard/css/vertical-layout-light/style.css">
+  <link rel="stylesheet" href="/assets/css/login-signup.css">
   <!-- endinject -->
   <link rel="shortcut icon" href="Dashboard/images/favicon.png" />
 </head>
@@ -27,7 +27,7 @@
           <div class="col-lg-4 mx-auto">
             <div class="auth-form-light text-left py-5 px-4 px-sm-5">
               <div class="brand-logo">
-                <img src="Dashboard/images/logo.svg" alt="logo">
+              <img src="assets/images/logos/baketogo.svg" alt="logo">
               </div>
               <h4>Hello! let's get started</h4>
               <h6 class="font-weight-light">Sign in to continue.</h6>

@@ -13,8 +13,8 @@
   <!-- endinject -->
   <!-- Plugin css for this page -->
   <!-- End plugin css for this page -->
-  <!-- inject:css -->
-  <link rel="stylesheet" href="Dashboard/css/vertical-layout-light/style.css">
+  <!-- inject:css -->a
+  <link rel="stylesheet" href="/assets/css/login-signup.css">
   <!-- endinject -->
   <link rel="shortcut icon" href="Dashboard/images/favicon.png" />
 </head>
@@ -27,7 +27,7 @@
           <div class="col-lg-4 mx-auto">
             <div class="auth-form-light text-left py-5 px-4 px-sm-5">
               <div class="brand-logo">
-                <img src="../../images/logo.svg" alt="logo">
+                <img src="assets/images/logos/baketogo.svg" alt="logo">
               </div>
               <h4>New here?</h4>
               <h6 class="font-weight-light">Signing up is easy. It only takes a few steps</h6>

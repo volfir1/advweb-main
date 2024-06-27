@@ -27,6 +27,7 @@ Route::get("/log",[HomeController::class,"log"]);
 Route::get('/admin',[AdminController::class,'index']);
 Route::get('/charts',[AdminController::class,'charts']);
 Route::get('/tables',[AdminController::class,'tables']);
+Route::get('/users',[AdminController::class,'users']);
 
 //Auth Routes
 Route::get('/login',[AuthController::class,'login']);

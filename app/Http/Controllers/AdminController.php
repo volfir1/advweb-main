@@ -18,4 +18,8 @@ class AdminController extends Controller
     public function tables(){
         return view('Dashboard.pages.tables.table');
     }
+
+    public function users(){
+        return view('Dashboard.pages.users.users');
+    }
 }
